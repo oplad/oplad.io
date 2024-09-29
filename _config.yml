@@ -1,6 +1,6 @@
 title: OPlad
 description: optimal portfolio & trading
 show_downloads: false
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-cayman
 
